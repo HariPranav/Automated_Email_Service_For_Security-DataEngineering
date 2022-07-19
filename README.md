@@ -1,7 +1,7 @@
 # Automated_Email_Service_For_Security-DataEngineering
 
 
-https://miro.medium.com/max/788/1*mJmCC099JHEuRQlSzNBM1A.png
+![image](https://user-images.githubusercontent.com/28874545/179793927-24ed64bd-a64e-46ea-ab5d-6dbcbef0b707.png)
 
 Every DataLake project requires a notification service which can send Emails with a prescribed template body to various stake holders both within and outside the organization. This requires the configuration of a mail server and whitelisting of domains which is often difficult to maintain and also there limitations on the number of email Id's which can be configured.
 
